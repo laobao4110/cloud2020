@@ -1,1 +1,10 @@
-com\atguigu\springcloud\entities\CommonResult.class
+com\atguigu\springcloud\dto\CommonResult.class
+com\atguigu\springcloud\base\BaseEntity.class
+com\atguigu\springcloud\base\JSONUtil.class
+com\atguigu\springcloud\dto\PaymentDTO.class
+com\atguigu\springcloud\base\ResultUtil.class
+com\atguigu\springcloud\base\BaseDTO.class
+com\atguigu\springcloud\base\Result.class
+com\atguigu\springcloud\base\BaseErrorCodeEnum.class
+com\atguigu\springcloud\base\BaseMapper.class
+com\atguigu\springcloud\base\BaseErrorCode.class
